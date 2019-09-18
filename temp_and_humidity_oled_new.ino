@@ -1,7 +1,3 @@
-/*********
-  Rui Santos
-  Complete project details at https://randomnerdtutorials.com  
-*********/
 #include <dht.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
